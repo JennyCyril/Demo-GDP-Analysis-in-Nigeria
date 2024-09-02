@@ -1,4 +1,4 @@
-# Analysis and Visualisation of Gross Domestic Product (GDP) in Nigeria (2020 - Q1 2024)
+# Analysis and Visualisation of Gross Domestic Product (GDP) in Nigeria (Q1 2020 - Q1 2024)
 
 ## Introduction
 The Gross Domestic Product (GDP) of a country is a critical indicator of its economic health, reflecting the total value of all goods and services produced over a specific time period. Understanding the trends and changes in GDP can provide valuable insights into economic performance and potential growth areas within a country. This analysis focuses on the GDP of Nigeria from Q1 2020 - Q1 2024, providing a comprehensive overview of its performance during this period.
