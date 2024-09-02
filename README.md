@@ -38,9 +38,19 @@ The data was first normalized in Excel before being transformed in Power Query. 
 
 ## Dashboard Insights
 ### Overview
+- The Current Quarter GDP is N18.28 trillion following a 11.99% increase compared to the Previous Quarter.
+![Overview Dashboard](https://github.com/JennyCyril/Demo-GDP-Analysis-in-Nigeria/blob/main/images/GDP_Main.png)
 
-### GDP by Sector
+### GDP by Sector Analysis
+
+![GDP by Sector](https://github.com/JennyCyril/Demo-GDP-Analysis-in-Nigeria/blob/main/images/GDP_by_Sector.png)
 
 ## Recommendations
+- Recommendation 1
+- Recommendation 2
+- Recommendation 3
+- Forecast
 
 ## Download
+
+<a href = "https://github.com/JennyCyril/Demo-GDP-Analysis-in-Nigeria/raw/main/images/Jennifer_Okpala_GDP_Analysis_Dashboard.pbix"> Download the Power BI file </a>
