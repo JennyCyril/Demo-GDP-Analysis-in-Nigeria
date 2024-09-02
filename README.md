@@ -38,3 +38,9 @@ The data was first normalized in Excel before being transformed in Power Query. 
 
 ## Dashboard Insights
 ### Overview
+
+### GDP by Sector
+
+## Recommendations
+
+## Download
